@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair:ital,wght@1,300&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Playfair';
+}
+
+header{
+    background-color: #c93727;
+    height: 200px;
+    text-align: center;
+}
+main{
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+}
+h1{
+    margin: 0 auto;
+    color: #fff692;
+    padding: 30px;
+}
+.botonIndex{
+    text-decoration: none;
+    color: #fff;
+    background-color: #005677;
+    padding: 15px;
+    font-size: 20px;
+}
+.subtitulos{
+    background-color: #394b6f;
+    background-image: url('../img/hobbies.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+    color: #ffffff;
+    letter-spacing: 5px;
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    color: #000;
+    margin-top: 0px;
+    color: #ff0000;
+    
+}
+.fondoSobreMi{
+    background-image: url('../img/sobreMi.jpg');
+    background-size: contain;
+    background-repeat: round;
+    background-attachment: fixed;
+    color: #0eb885;
+}
+.resumen{
+    background-image: url('../img/summary.png');
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+
+.infoRedes{
+    display: inline;
+    font-style: normal;
+}
+.redesInfo{
+    background-color: #005677;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}
+.imgFooter{
+    padding-left: 15px;
+}
+.imgFooter>a{
+    text-decoration: none;
+}
+.imgFooter>a>i{
+    color: #fff;
+    font-size: 20px;
+}
+
+.botonSobreMi{
+    text-decoration: none;
+    color: #fff;
+    background-color: #005677;
+    padding: 15px;
+    font-size: 20px;
+    margin-left: 50%;
+}
